@@ -1,0 +1,2 @@
+# othello-ai
+Othello client
